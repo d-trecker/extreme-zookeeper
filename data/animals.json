@@ -171,6 +171,24 @@
         "hungry"
       ],
       "id": "17"
+    },
+    {
+      "name": "Larry",
+      "species": "Lemur",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "18"
+    },
+    {
+      "name": "Renegade",
+      "species": "Dolphin",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "19"
     }
   ]
 }
